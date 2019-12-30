@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+}
+
+body {
+  background-color: rgb(247, 9, 9);
+  display: flex;
+  flex-direction: column;
+}
+
+}
+.boton {
+  width: 80;
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 25;
+  margin-left: auto;
+  margin-right: auto;
+}
+.suma {
+  background-color: rgb(75, 75, 75);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 60px;
+  margin: 0px 40px;
+  height: 350px;
+}

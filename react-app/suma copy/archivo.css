@@ -1,0 +1,8 @@
+.suma {
+  display: flex;
+  flex-direction: row;
+}
+
+#resultado {
+  color: #bbb;
+}

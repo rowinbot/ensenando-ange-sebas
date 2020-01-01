@@ -13,3 +13,6 @@ function disminuir() {
 
   document.getElementById("resultado").innerHTML = parseInt(valorActual) - 1;
 }
+var valorActual = document.getElementById("resultado").innerHTML;
+
+document.getElementById("resultado").innerHTML = parseInt(valorActual) + 1;

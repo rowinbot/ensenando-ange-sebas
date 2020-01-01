@@ -28,7 +28,7 @@ i {
 }
 
 .competencia {
-  background-color: rgb(75, 75, 75);
+  background-color: rgb(8, 214, 169);
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 60px;
